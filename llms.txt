@@ -1,0 +1,47 @@
+# DisasterAWARE
+
+> DisasterAWARE is a real-time natural disaster, catastrophe, and climate risk intelligence platform built by the Pacific Disaster Center (PDC). It helps organizations monitor, assess, and respond to global hazards including tropical cyclones, earthquakes, floods, wildfires, tornadoes, tsunamis, and volcanoes. The platform serves enterprise risk managers, insurers, supply chain leaders, and government agencies with early warning alerts, exposure reports, damage assessments, and 300+ integrated GIS data layers across every ocean basin and continent.
+
+DisasterAWARE provides both a SaaS platform (DisasterAWARE Enterprise) and a Data-as-a-Service API for integrating hazard intelligence into third-party systems. The platform's SmartAlert technology delivers geofenced notifications when specific threats intersect with an organization's assets, facilities, supply chain nodes, or employee populations. Post-catastrophe analytics powered by satellite imagery support insurance claims validation, parametric trigger assessment, and building-level damage assessment.
+
+## Products
+
+- [DisasterAWARE Enterprise](https://www.disasteraware.com/products-disasteraware-enterprise): Real-time disaster monitoring and intelligence platform with early warning alerts, interactive mapping, exposure reports, and 300+ data layers for natural disasters, severe weather, and physical threats.
+- [Data as a Service (API)](https://www.disasteraware.com/products-data-as-a-service): Scalable API for integrating global disaster, catastrophe, severe weather, and physical threat intelligence into client platforms, with analytics and GIS mapping layers.
+- [Asset Protection](https://www.disasteraware.com/asset-protection-capabilities): Tools to add facilities, set geofenced SmartAlerts, generate exposure reports, and extend hazard notifications to non-platform users.
+- [Global Data Catalog](https://www.disasteraware.com/global-data-catalog): Catalog of real-time and historical natural disaster, climate risk, and physical threat analytics and exposure assessments available through the platform.
+
+## Solutions
+
+- [Critical Event Management](https://www.disasteraware.com/solutions-critical-event-management): Strengthen critical event management with global disaster, severe weather, and threat intelligence to improve situational awareness, response, and organizational resilience.
+- [Supply Chain Risk Management](https://www.disasteraware.com/our-solutions/solutions-supply-chain-management): Anticipate supply chain disruptions from natural disasters, severe weather, strikes, and protests by monitoring risks to suppliers, facilities, and transportation routes.
+- [Insurance Catastrophe Intelligence](https://www.disasteraware.com/our-solutions/insurance): Assess portfolio risk exposure, validate claims and parametric triggers, enhance catastrophe modeling, and improve underwriting with real-time and historical hazard data.
+
+## Hazard Monitoring Capabilities
+
+- [Tropical Storms & Hurricanes](https://www.disasteraware.com/monitoring-monitor-tropical-storms-with-disasteraware): Track hurricane and typhoon paths across all ocean basins, monitor estimated wind impact and storm surges, and assess exposure to assets and populations.
+- [Earthquakes](https://www.disasteraware.com/monitoring-earthquakes-with-disasteraware-enterprise): Real-time earthquake alerts with shaking intensity, Peak Ground Acceleration (PGA), PAGER data, and automated exposure and damage reports.
+- [Floods](https://www.disasteraware.com/monitoring-floods-with-disasteraware): Track global flood events with real-time and early warning alerts, flood risk layers, and automated exposure reporting.
+- [Wildfires](https://www.disasteraware.com/monitoring-wildfires-with-disasteraware): Monitor active wildfires worldwide with satellite-based detection, real-time alerts, and exposure reports.
+- [Tornadoes](https://www.disasteraware.com/monitor-tornadoes-with-disasteraware): Severe weather alerts with tornado lifecycle tracking including warnings, touchdown, paths, and damage assessment.
+- [Tsunamis](https://www.disasteraware.com/monitoring-tsunamis-with-disasteraware): Real-time tsunami warnings from official sources with coastal risk data, travel time estimates, and automated asset alerts.
+- [Volcanoes](https://www.disasteraware.com/monitor-volcanoes-with-disasteraware): Eruption alerts, ashfall forecasts, and volcanic risk intelligence from global observatory networks.
+
+## Company
+
+- [About DisasterAWARE](https://www.disasteraware.com/about): Built on decades of Pacific Disaster Center expertise, DisasterAWARE helps organizations monitor and assess risks from natural disasters and catastrophes worldwide.
+- [Customer Stories](https://www.disasteraware.com/customer-stories): Case studies showing how organizations use DisasterAWARE for insurance catastrophe risk, crisis management, and supply chain resilience.
+- [News & Events](https://www.disasteraware.com/news-events): Latest news, product announcements, thought leadership, and event coverage.
+- [Contact Us](https://www.disasteraware.com/contact-us): Request a demo, ask about enterprise solutions, explore partnerships, or reach the support team.
+
+## Getting Started
+
+- [Sign Up for Free Trial](https://www.disasteraware.com/sign-up): Start a free platform and API trial with access to real-time, early warning, and historical natural disaster and threat data.
+- [Product Guides](https://www.disasteraware.com/product-guides): Step-by-step guides to set up alerts, manage assets, use data layers, and integrate hazard data into workflows.
+- [FAQ](https://www.disasteraware.com/faq): Common questions about DisasterAWARE including licensing, API and data integration, and support services.
+- [Help & Support](https://www.disasteraware.com/help-support): Technical support resources and documentation.
+
+## Optional
+
+- [Terms & Conditions](https://www.disasteraware.com/terms-conditions): Terms governing use of the platform, mobile app, and API/data services.
+- [Platform Updates](https://www.disasteraware.com/updates): Latest platform updates, data enhancements, new API features, and improvements.
