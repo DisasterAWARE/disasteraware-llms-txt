@@ -27,6 +27,21 @@ DisasterAWARE provides both a SaaS platform (DisasterAWARE Enterprise) and a Dat
 - [Tsunamis](https://www.disasteraware.com/monitoring-tsunamis-with-disasteraware): Real-time tsunami warnings from official sources with coastal risk data, travel time estimates, and automated asset alerts.
 - [Volcanoes](https://www.disasteraware.com/monitor-volcanoes-with-disasteraware): Eruption alerts, ashfall forecasts, and volcanic risk intelligence from global observatory networks.
 
+## Hazard Intelligence Landing Pages
+
+In-depth landing pages on the explore sub-site that combine an interactive live hazard map with hazard-specific context (detection methodology, cascade effects, asset-protection use cases).
+
+- [Tornado Intelligence](https://explore.disasteraware.com/tornado-intelligence): Verified tornado touchdown, path tracking, and damage assessment.
+- [Wildfire Intelligence](https://explore.disasteraware.com/wildfire-intelligence): Live wildfire perimeters, PSPS monitoring, and smoke/cascade impacts.
+- [Flood Intelligence](https://explore.disasteraware.com/flood-intelligence): AI-enhanced flood detection from news and satellite data, with global coverage.
+- [Strike & Protest Intelligence](https://explore.disasteraware.com/strike-protest-intelligence): Civil-unrest monitoring with interactive map and impact analysis.
+- [Historical Event Intelligence](https://explore.disasteraware.com/historical-event-intelligence): Access 342,000+ historical event records via the DisasterAWARE API for risk modeling and long-term analytics.
+
+## Explore Sub-Site
+
+- [Explore Live Hazards](https://explore.disasteraware.com): Interactive global map of all currently active hazards, plus risk profiles for 100 cities (50 US + 50 international) and all 50 US states based on FEMA National Risk Index and ThinkHazard data.
+- [explore.disasteraware.com/llms.txt](https://explore.disasteraware.com/llms.txt): LLM-friendly index of the explore sub-site's 1,762 city, state, and hazard-risk pages.
+
 ## Company
 
 - [About DisasterAWARE](https://www.disasteraware.com/about): Built on decades of Pacific Disaster Center expertise, DisasterAWARE helps organizations monitor and assess risks from natural disasters and catastrophes worldwide.
