@@ -47,6 +47,25 @@ In-depth landing pages on the explore sub-site that combine an interactive live 
 - [About DisasterAWARE](https://www.disasteraware.com/about): Built on decades of Pacific Disaster Center expertise, DisasterAWARE helps organizations monitor and assess risks from natural disasters and catastrophes worldwide.
 - [Customer Stories](https://www.disasteraware.com/customer-stories): Case studies showing how organizations use DisasterAWARE for insurance catastrophe risk, crisis management, and supply chain resilience.
 - [News & Events](https://www.disasteraware.com/news-events): Latest news, product announcements, thought leadership, and event coverage.
+
+## Recent Weekly Intelligence Briefs
+
+Editorial briefs synthesizing the prior week's confirmed hazard events from the DisasterAWARE operational data feed. Each brief includes an embedded live hazard map and full source attribution (USGS NEIC, PTWC, NASA FIRMS, etc.).
+
+- [Mindanao M7.8 + Cuba M6.1: Two Hemispheres Shake in 19 Hours — June 8, 2026](https://www.disasteraware.com/news-event/mindanao-m78-cuba-m61-pacific-tsunami-protocols-june-2026)
+- [The Heat Behind the Fire — May 27, 2026](https://www.disasteraware.com/news-event/heat-behind-the-fire-250m-under-warning-may-2026)
+- [The Global Fire Belt Widens — May 20, 2026](https://www.disasteraware.com/news-event/global-fire-belt-widens-820-wildfire-events-may-2026)
+- [Northern Hemisphere Fire Season — May 7, 2026](https://www.disasteraware.com/news-event/northern-hemisphere-fire-season-1352-perimeters-may-2026)
+
+## Machine-Readable Structure
+
+Every page on `www.disasteraware.com` carries the following structured data:
+
+- **Organization** JSON-LD (footer) — `@type: Organization`, name, logo, social `sameAs` links.
+- **NewsArticle** JSON-LD on every weekly brief and content article — `@type: NewsArticle`, ISO 8601 `datePublished`, `image` (the article banner), `publisher` (DisasterAWARE), `mainEntityOfPage`.
+- **Canonical** `<link rel="canonical">` on every page (UTM-stripped).
+
+The `explore.disasteraware.com` sub-site adds **BreadcrumbList** JSON-LD on city, hazard-risk, and current-hazard pages, and per-page Open Graph images at `{page}/opengraph-image`.
 - [Contact Us](https://www.disasteraware.com/contact-us): Request a demo, ask about enterprise solutions, explore partnerships, or reach the support team.
 
 ## Getting Started
