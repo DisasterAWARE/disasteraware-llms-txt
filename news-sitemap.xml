@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.disasteraware.com/news-event/mindanao-m78-cuba-m61-pacific-tsunami-protocols-june-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T12:00:00.000Z</news:publication_date>
+      <news:title>Mindanao M7.8 + Cuba M6.1: Two Hemispheres Shake in 19 Hours, Pacific Tsunami Protocols Activate and Stand Down</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disasteraware.com/news-event/heat-behind-the-fire-250m-under-warning-may-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T12:00:00.000Z</news:publication_date>
+      <news:title>The Heat Behind the Fire: Extreme-Temperature WARNINGs Now Cover a Quarter-Billion People — and Europe Is Next</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disasteraware.com/news-event/global-fire-belt-widens-820-wildfire-events-may-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T12:00:00.000Z</news:publication_date>
+      <news:title>The Global Fire Belt Widens: Two Weeks Into Northern-Hemisphere Fire Season, 820 Wildfire Events Across Six Continents</news:title>
+    </news:news>
+  </url>
+</urlset>
