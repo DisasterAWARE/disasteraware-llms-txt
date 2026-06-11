@@ -1,5 +1,7 @@
 # DisasterAWARE
 
+> An expanded full-text bundle of recent articles is available at [llms-full.txt](https://www.disasteraware.com/llms-full.txt) (~260 KB).
+
 > DisasterAWARE is a real-time natural disaster, catastrophe, and climate risk intelligence platform built by the Pacific Disaster Center (PDC). It helps organizations monitor, assess, and respond to global hazards including tropical cyclones, earthquakes, floods, wildfires, tornadoes, tsunamis, and volcanoes. The platform serves enterprise risk managers, insurers, supply chain leaders, and government agencies with early warning alerts, exposure reports, damage assessments, and 300+ integrated GIS data layers across every ocean basin and continent.
 
 DisasterAWARE provides both a SaaS platform (DisasterAWARE Enterprise) and a Data-as-a-Service API for integrating hazard intelligence into third-party systems. The platform's SmartAlert technology delivers geofenced notifications when specific threats intersect with an organization's assets, facilities, supply chain nodes, or employee populations. Post-catastrophe analytics powered by satellite imagery support insurance claims validation, parametric trigger assessment, and building-level damage assessment.
