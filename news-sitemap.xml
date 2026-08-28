@@ -57,6 +57,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.disasteraware.com/news-event/replaying-historic-disasters</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T17:00:00.000Z</news:publication_date>
+      <news:title>Replaying Historic Disasters</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/flood-depth-vs-flood-extent</loc>
     <news:news>
       <news:publication>
