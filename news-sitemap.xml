@@ -276,26 +276,4 @@
       <news:title>The Rise of Historical Catastrophe Intelligence</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/why-historical-weather-data-isnt-enough</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T17:00:00.000Z</news:publication_date>
-      <news:title>Why Historical Weather Data Isn't Enough</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/kyushu-cascade-m71-quake-tsunami-collapse-july-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T12:00:00.000Z</news:publication_date>
-      <news:title>Anatomy of a Cascade: Kyushu's M7.1 Earthquake Becomes Tsunami Alert, Building Collapse, and Aftershock Sequence — Four Hazard Types From One Event in a 2,196-Event Week</news:title>
-    </news:news>
-  </url>
 </urlset>
