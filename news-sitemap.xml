@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/hurricane-lowell-kauai-iniki-anniversary</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T18:00:00.000Z</news:publication_date>
+      <news:title>Hurricane Lowell Never Made Landfall on Kauaʻi. It Still Took 91% of the Island's Power.</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/secondary-perils-insurance-risk</loc>
     <news:news>
       <news:publication>
@@ -87,215 +98,6 @@
       </news:publication>
       <news:publication_date>2026-08-14T17:00:00.000Z</news:publication_date>
       <news:title>Replaying Historic Disasters</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/flood-depth-vs-flood-extent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T03:00:00.000Z</news:publication_date>
-      <news:title>Flood Depth vs. Flood Extent: Why Water Depth Matters for Better Disaster Decisions</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/observed-flood-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T03:00:00.000Z</news:publication_date>
-      <news:title>Floods Are One of the World's Most Difficult Hazards to Measure</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/verified-severe-convective-storm-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T19:20:00.000Z</news:publication_date>
-      <news:title>Verified Severe Convective Storm Intelligence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/historical-catastrophe-intelligence-vs-catastrophe-models</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T19:10:00.000Z</news:publication_date>
-      <news:title>Historical Catastrophe Intelligence and Catastrophe Models</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/historical-catastrophe-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T19:00:00.000Z</news:publication_date>
-      <news:title>Historical Catastrophe Intelligence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/nasa-firms-enterprise-wildfire-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T18:50:00.000Z</news:publication_date>
-      <news:title>How DisasterAWARE Enhances NASA FIRMS for Enterprise Wildfire Intelligence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/wildfire-detection-to-decision</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T18:40:00.000Z</news:publication_date>
-      <news:title>From Detection to Decision: The Next Generation of Wildfire Intelligence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/wildfire-monitoring-across-borders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T18:30:00.000Z</news:publication_date>
-      <news:title>Why Wildfire Intelligence Shouldn't Stop at the U.S. Border</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/wildfire-data-sources-complete-picture</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T18:20:00.000Z</news:publication_date>
-      <news:title>Why No Single Wildfire Data Source Tells the Whole Story</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/satellite-fire-detections-vs-wildfire-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T18:10:00.000Z</news:publication_date>
-      <news:title>Why Satellite Fire Detections Alone Aren't Enough</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/wildfire-intelligence-beyond-satellite-hotspots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T18:00:00.000Z</news:publication_date>
-      <news:title>Beyond Satellite Hotspots: How DisasterAWARE Delivers Actionable Wildfire Intelligence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/meteoalarm-integration-european-severe-weather-alerts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T20:00:00.000Z</news:publication_date>
-      <news:title>DisasterAWARE Expands European Severe Weather Intelligence with MeteoAlarm Integration</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/hazard-data-for-insurers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T22:00:00.000Z</news:publication_date>
-      <news:title>Real-Time Hazard Data for Insurers: Catastrophe Response, Claims Triage, and Underwriting Beyond the Models</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/what-is-critical-event-management</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T21:00:00.000Z</news:publication_date>
-      <news:title>What Is Critical Event Management? The Three Pillars, Explained</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/typhoon-dolphin-2026-okinawa-china-double-landfall</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T18:00:00.000Z</news:publication_date>
-      <news:title>Typhoon Dolphin 2026: Okinawa Strike, Then a China Landfall — 47 Advisories and Counting</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/what-is-event-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T12:00:00.000Z</news:publication_date>
-      <news:title>What Is Event Intelligence? Definition, Examples, and How It Works</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/historical-exposure-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T17:00:00.000Z</news:publication_date>
-      <news:title>Historical Exposure Intelligence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/every-historic-disaster-leaves-evidence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T17:00:00.000Z</news:publication_date>
-      <news:title>Every Historic Disaster Leaves Evidence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/rise-of-historical-catastrophe-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T17:00:00.000Z</news:publication_date>
-      <news:title>The Rise of Historical Catastrophe Intelligence</news:title>
     </news:news>
   </url>
 </urlset>
