@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/severe-convective-storm-data-problem</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T16:00:00.000Z</news:publication_date>
+      <news:title>The Insurance Industry's Severe Convective Storm Data Problem</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/southern-africa-fire-belt-september-2026</loc>
     <news:news>
       <news:publication>
@@ -98,17 +109,6 @@
       </news:publication>
       <news:publication_date>2026-08-18T17:00:00.000Z</news:publication_date>
       <news:title>How DisasterAWARE Reconstructs Historic Hurricanes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/replaying-historic-disasters</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T17:00:00.000Z</news:publication_date>
-      <news:title>Replaying Historic Disasters</news:title>
     </news:news>
   </url>
 </urlset>
