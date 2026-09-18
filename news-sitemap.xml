@@ -46,6 +46,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.disasteraware.com/news-event/role-of-real-time-hazard-data-in-parametric-insurance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-12T16:00:00.000Z</news:publication_date>
+      <news:title>The Role of Real-Time Hazard Data in Parametric Insurance</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/severe-convective-storm-data-problem</loc>
     <news:news>
       <news:publication>
