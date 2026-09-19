@@ -68,6 +68,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.disasteraware.com/news-event/tornadoes-dont-have-to-be-ef5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-13T16:00:00.000Z</news:publication_date>
+      <news:title>Tornadoes Don't Have to Be EF5 to Create Significant Insurance Risk</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/role-of-real-time-hazard-data-in-parametric-insurance</loc>
     <news:news>
       <news:publication>
