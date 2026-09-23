@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/colorado-springs-tornado-warning-september-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T20:00:00.000Z</news:publication_date>
+      <news:title>Did a Tornado Hit Colorado Springs on September 20? What the Warning Actually Covered</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/historical-tornado-data-portfolio-risk</loc>
     <news:news>
       <news:publication>
@@ -208,28 +219,6 @@
       </news:publication>
       <news:publication_date>2026-08-26T19:00:00.000Z</news:publication_date>
       <news:title>Hawk Fire 2026: Evacuations on Reno's Doorstep in a Week When Wildfire Was 80% of Everything</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/historical-intelligence-for-claims</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T17:00:00.000Z</news:publication_date>
-      <news:title>Historical Intelligence for Claims</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/reconstructing-historic-wildfires</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T17:00:00.000Z</news:publication_date>
-      <news:title>Reconstructing Historic Wildfires</news:title>
     </news:news>
   </url>
 </urlset>
