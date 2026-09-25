@@ -178,6 +178,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.disasteraware.com/news-event/nat-cat-detection-to-claims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T16:00:00.000Z</news:publication_date>
+      <news:title>From Nat Cat Detection to Claims: How Event Intelligence Supports the Insurance Lifecycle</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/catastrophe-intelligence-vs-catastrophe-modeling</loc>
     <news:news>
       <news:publication>
