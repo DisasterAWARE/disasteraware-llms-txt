@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.disasteraware.com/news-event/event-level-intelligence-catastrophe-reinsurance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T16:00:00.000Z</news:publication_date>
+      <news:title>Why Event-Level Intelligence Matters for Catastrophe Reinsurance</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/real-time-event-intelligence-reinsurance-operations</loc>
     <news:news>
       <news:publication>
