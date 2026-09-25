@@ -178,6 +178,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.disasteraware.com/news-event/what-is-nat-cat-intelligence</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T16:00:00.000Z</news:publication_date>
+      <news:title>What Is Nat Cat Intelligence? A Guide for Insurance Companies</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/secondary-perils-insurance-risk</loc>
     <news:news>
       <news:publication>
