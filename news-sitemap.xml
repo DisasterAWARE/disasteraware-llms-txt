@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.disasteraware.com/news-event/real-time-catastrophe-intelligence-nat-cat-events</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-19T16:00:00.000Z</news:publication_date>
+      <news:title>How Insurers Use Real-Time Catastrophe Intelligence During Nat Cat Events</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/historical-tornado-data-portfolio-risk</loc>
     <news:news>
       <news:publication>
