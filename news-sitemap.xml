@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/biggest-snowstorms-nyc-boston-chicago-buffalo-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
+      <news:title>Biggest Snowstorms in NYC, Boston, Chicago and Buffalo History: The Top 10 in Each City (Mapped)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disasteraware.com/news-event/worst-winter-storms-us-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
+      <news:title>Worst Winter Storms in US History: Blizzards, Ice Storms and Deep Freezes Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/worst-us-floods-last-20-years</loc>
     <news:news>
       <news:publication>
