@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/largest-tornado-outbreaks-us-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
+      <news:title>Largest Tornado Outbreaks in US History: 1974, 2011 and March 2026 Compared (Mapped)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disasteraware.com/news-event/worst-hail-storms-us-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
+      <news:title>Worst Hail Storms in US History: The Costliest, Ranked and Mapped</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disasteraware.com/news-event/largest-hailstones-ever-recorded</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
+      <news:title>Largest Hailstones Ever Recorded: The US Record and Every State's Biggest Hail</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disasteraware.com/news-event/biggest-earthquakes-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
+      <news:title>Biggest Earthquakes of 2026 So Far: The Largest, the Deadliest and the US List (Mapped)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.disasteraware.com/news-event/largest-earthquakes-us-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
+      <news:title>Largest Earthquakes in US History — and the Biggest in Every State (Mapped)</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/deadliest-earthquakes-21st-century</loc>
     <news:news>
       <news:publication>
