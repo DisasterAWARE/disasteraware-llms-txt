@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/live-hazards-mcp-server</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:00:00.000Z</news:publication_date>
+      <news:title>Ask What Is Happening Right Now: DisasterAWARE's Live Hazards MCP Server</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/historical-hazards-mcp-server</loc>
     <news:news>
       <news:publication>
@@ -241,50 +252,6 @@
       </news:publication>
       <news:publication_date>2026-09-25T16:00:00.000Z</news:publication_date>
       <news:title>El Niño 2026-27: How Strong It Is, What the Forecasts Say, and What It Means This Winter</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/colorado-springs-tornado-warning-september-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T20:00:00.000Z</news:publication_date>
-      <news:title>Did a Tornado Hit Colorado Springs on September 20? What the Warning Actually Covered</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/event-level-intelligence-catastrophe-reinsurance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T16:00:00.000Z</news:publication_date>
-      <news:title>Why Event-Level Intelligence Matters for Catastrophe Reinsurance</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/real-time-event-intelligence-reinsurance-operations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T16:00:00.000Z</news:publication_date>
-      <news:title>How Real-Time Event Intelligence Supports Reinsurance Operations</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/hazard-footprints-reinsurance-exposure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T16:00:00.000Z</news:publication_date>
-      <news:title>Using Hazard Footprints to Understand Reinsurance Exposure</news:title>
     </news:news>
   </url>
 </urlset>
