@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/southwest-october-2026-floods-tornadoes-new-mexico-arizona</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T20:00:00.000Z</news:publication_date>
+      <news:title>The Southwest's October Flood: Three Deaths in New Mexico, a Santa Fe Tornado and 416 US Flash Flood Warnings in One Month</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/hail-wind-api</loc>
     <news:news>
       <news:publication>
@@ -241,17 +252,6 @@
       </news:publication>
       <news:publication_date>2026-10-13T12:00:00.000Z</news:publication_date>
       <news:title>Strongest Hurricanes to Hit the US: Every Category 5 Landfall (Mapped)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.disasteraware.com/news-event/september-2026-noreaster-highest-water-since-sandy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>DisasterAWARE</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T20:00:00.000Z</news:publication_date>
-      <news:title>The September 2026 Nor'easter, Warned vs. Measured: Highest Water Since Sandy at Kiptopeke and Ocean City Inlet</news:title>
     </news:news>
   </url>
 </urlset>
