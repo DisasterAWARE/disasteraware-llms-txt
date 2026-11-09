@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.disasteraware.com/news-event/toccoa-ocoee-river-record-flood-november-2026-georgia-tennessee</loc>
+    <news:news>
+      <news:publication>
+        <news:name>DisasterAWARE</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T18:31:00.000Z</news:publication_date>
+      <news:title>A 1,000-Year Flood on a River That Had Passed 10 Feet Only Once: the Toccoa and Ocoee Record of November 5, 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.disasteraware.com/news-event/southwest-october-2026-floods-tornadoes-new-mexico-arizona</loc>
     <news:news>
       <news:publication>
