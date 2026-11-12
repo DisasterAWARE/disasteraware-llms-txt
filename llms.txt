@@ -1,83 +1,133 @@
 # DisasterAWARE
 
-> An expanded full-text bundle of recent articles is available at [llms-full.txt](https://www.disasteraware.com/llms-full.txt) (~260 KB).
+> DisasterAWARE Enterprise is a global disaster, severe weather and threat intelligence provider built on Pacific Disaster Center (PDC) technology. It delivers real-time hazard events, authoritative warnings, observed hazard footprints, exposure and impact intelligence across 30+ hazard types, plus an enriched historical catastrophe archive, through APIs, MCP servers for AI applications, geospatial data layers and the DisasterAWARE Enterprise platform.
 
-> DisasterAWARE is a real-time natural disaster, catastrophe, and climate risk intelligence platform built by the Pacific Disaster Center (PDC). It helps organizations monitor, assess, and respond to global hazards including tropical cyclones, earthquakes, floods, wildfires, tornadoes, tsunamis, and volcanoes. The platform serves enterprise risk managers, insurers, supply chain leaders, and government agencies with early warning alerts, exposure reports, damage assessments, and 300+ integrated GIS data layers across every ocean basin and continent.
+DisasterAWARE serves insurers and reinsurers, risk intelligence and security teams, supply chain and logistics operators, business continuity teams, government and humanitarian organizations, and technology and data partners, as well as individuals monitoring homes, family and properties. Developers and AI applications can reach the same intelligence through the Disaster & Severe Weather API, the historical catastrophe datasets and two MCP servers (historical catastrophe intelligence and live disaster intelligence).
 
-DisasterAWARE provides both a SaaS platform (DisasterAWARE Enterprise) and a Data-as-a-Service API for integrating hazard intelligence into third-party systems. The platform's SmartAlert technology delivers geofenced notifications when specific threats intersect with an organization's assets, facilities, supply chain nodes, or employee populations. Post-catastrophe analytics powered by satellite imagery support insurance claims validation, parametric trigger assessment, and building-level damage assessment.
+Each section below has its own index and a full-text file generated from the published pages:
+
+- Products: [https://www.disasteraware.com/products/llms.txt](https://www.disasteraware.com/products/llms.txt) · full text [https://www.disasteraware.com/products/llms-full.txt](https://www.disasteraware.com/products/llms-full.txt)
+- Solutions: [https://www.disasteraware.com/solutions/llms.txt](https://www.disasteraware.com/solutions/llms.txt) · full text [https://www.disasteraware.com/solutions/llms-full.txt](https://www.disasteraware.com/solutions/llms-full.txt)
+- Data & Coverage: [https://www.disasteraware.com/data-coverage/llms.txt](https://www.disasteraware.com/data-coverage/llms.txt) · full text [https://www.disasteraware.com/data-coverage/llms-full.txt](https://www.disasteraware.com/data-coverage/llms-full.txt)
+- Developers: [https://www.disasteraware.com/developers/llms.txt](https://www.disasteraware.com/developers/llms.txt) · full text [https://www.disasteraware.com/developers/llms-full.txt](https://www.disasteraware.com/developers/llms-full.txt)
+- Pacific Disaster Center Partnership: [https://www.disasteraware.com/pdc-partnership/llms.txt](https://www.disasteraware.com/pdc-partnership/llms.txt) · full text [https://www.disasteraware.com/pdc-partnership/llms-full.txt](https://www.disasteraware.com/pdc-partnership/llms-full.txt)
+
+## For AI Applications and Developers
+
+- [Disaster Intelligence MCP Servers & AI Integration](https://www.disasteraware.com/developers/mcp-servers-ai-integration): Connect AI applications to historical catastrophe data, live disaster intelligence, geographic hazards, and impacts using DisasterAWARE MCP servers.
+- [Getting Started with DisasterAWARE APIs & Data](https://www.disasteraware.com/developers/getting-started): Start integrating DisasterAWARE disaster intelligence through REST APIs, webhooks, historical catastrophe datasets, MCP servers, and geospatial services.
+- [Disaster API Responses & Data Structure](https://www.disasteraware.com/developers/api-responses-data-structure): Explore DisasterAWARE's enriched disaster API data, including hazard attributes, geographic footprints, exposure assessments, and impact intelligence.
+- [Disaster & Catastrophe Data Samples](https://www.disasteraware.com/developers/data-samples): Explore DisasterAWARE historical catastrophe data, severe weather footprints, earthquake and hurricane datasets, and 300+ geospatial intelligence layers.
+- [Request DisasterAWARE API & Data Access](https://www.disasteraware.com/developers/request-api-access): Request access to DisasterAWARE's disaster and severe weather APIs, historical catastrophe datasets, geospatial intelligence, and MCP integrations.
+- [API Documentation](https://api-v2-docs.disasteraware.com/): Reference documentation for the DisasterAWARE API.
 
 ## Products
 
-- [DisasterAWARE Enterprise](https://www.disasteraware.com/products-disasteraware-enterprise): Real-time disaster monitoring and intelligence platform with early warning alerts, interactive mapping, exposure reports, and 300+ data layers for natural disasters, severe weather, and physical threats.
-- [Data as a Service (API)](https://www.disasteraware.com/products-data-as-a-service): Scalable API for integrating global disaster, catastrophe, severe weather, and physical threat intelligence into client platforms, with analytics and GIS mapping layers.
-- [Asset Protection](https://www.disasteraware.com/asset-protection-capabilities): Tools to add facilities, set geofenced SmartAlerts, generate exposure reports, and extend hazard notifications to non-platform users.
-- [Global Data Catalog](https://www.disasteraware.com/global-data-catalog): Catalog of real-time and historical natural disaster, climate risk, and physical threat analytics and exposure assessments available through the platform.
+- [AI & Analytics Intelligence](https://www.disasteraware.com/products/ai-analytics-intelligence): AI-powered risk analytics and early warning: feed AI agents, copilots and data lakes with real-time hazards, catastrophe history and exposure intelligence.
+- [Custom Hazard Exposure Reports](https://www.disasteraware.com/products/custom-reports): A daily report built around your own sites: which are inside a hazard's alert area, newly affected, moving closer or clear again. See a sample.
+- [Real-Time Disaster & Severe Weather API](https://www.disasteraware.com/products/disaster-weather-api): Real-time hazard event API for disasters, severe weather, wildfires, floods, earthquakes and operational risk: REST, webhooks and streams for apps and agents.
+- [Earthquake Data — Historical Records, ShakeMap Intensity & API](https://www.disasteraware.com/products/earthquake-data): Earthquake data you can build on: 73,700+ global records with magnitude, depth and timing, plus USGS ShakeMap intensity on major events. Free samples.
+- [DisasterAWARE Enterprise Platform](https://www.disasteraware.com/products/enterprise-platform): The fastest way to operationalize disaster intelligence: real-time events, catastrophe history, geospatial layers, AI analytics and workflows in one platform.
+- [Flood Data — Historical Records, Gauge Peaks & API](https://www.disasteraware.com/products/flood-data): Flood data you can build on: 108,000+ global flood records back to 1947, US records enriched with USGS gauge peaks, road closures and storm reports.
+- [Flood Intelligence](https://www.disasteraware.com/products/flood-intelligence): Detect floods before official reports: USGS gauges, NWS alerts, satellite data and AI news extraction with injuries, deaths, depth and damage, worldwide.
+- [Geospatial Hazard & Risk Data](https://www.disasteraware.com/products/geospatial-hazard-data): 300+ hazard, weather and risk geospatial layers as tiles, WMS, WMTS and vector: forecasts, climate, exposure and infrastructure. Mapbox and Leaflet ready.
+- [Historical Catastrophe Data](https://www.disasteraware.com/products/historical-catastrophe-data): Historical catastrophe data API: tornado paths, hail swaths, hurricane wind fields, earthquake ground motion, wildfire perimeters and flood extents.
+- [Hurricane Data — Best Tracks, Wind Radii & Landfalls](https://www.disasteraware.com/products/hurricane-data): Hurricane, typhoon and cyclone data: IBTrACS best tracks with quadrant wind radii, per-landfall intensity and Saffir-Simpson history. Free sample, live API.
+- [Natural Disaster API — Real-Time Alerts & Historical Data](https://www.disasteraware.com/products/natural-disaster-api): A natural disaster API with real-time verified events and decades of catastrophe history: global coverage, severity and impact attributes, REST and streaming.
+- [Severe Convective Storm Data — Hail, Wind & Tornado Records](https://www.disasteraware.com/products/severe-convective-storm-data): Hail, wind and tornado data in one event record: 134,000+ SCS records with measured hail size, wind gusts, MESH radar swaths and surveyed tornado paths.
+- [Strike & Protest Intelligence](https://www.disasteraware.com/products/strike-protest-intelligence): Monitor strikes, protests and civil unrest worldwide in real time, with verified intelligence on disruptions to your supply chain, employees and operations.
+- [Tornado Data — Historical Records, Ratings & Real-Time API](https://www.disasteraware.com/products/tornado-data): Tornado data you can build on: 22,500+ US tornado warning and touchdown records since 2014 with EF ratings, footprints and exposure. Free samples and a live API.
+- [Tornado Intelligence](https://www.disasteraware.com/products/tornado-intelligence): Go beyond tornado warnings with verified impact intelligence. Confirm touchdown, track paths, assess damage severity, and identify affected assets in real time.
+- [Wildfire Data — US Fire Perimeters, Acreage & Impacts](https://www.disasteraware.com/products/wildfire-data): US wildfire data: 1,900+ fires since 2016 with burned acreage, perimeters, containment timelines, SIT-209 impacts and satellite detections. Free sample.
+- [Wildfire Intelligence](https://www.disasteraware.com/products/wildfire-intelligence): Real-time wildfire risk intelligence beyond perimeters: active fires, smoke impact, evacuation zones and PSPS events from satellites, NIFC and 300+ layers.
+- [All product pages, including pricing, use cases and sample datasets](https://www.disasteraware.com/products/llms.txt)
 
 ## Solutions
 
-- [Critical Event Management](https://www.disasteraware.com/solutions-critical-event-management): Strengthen critical event management with global disaster, severe weather, and threat intelligence to improve situational awareness, response, and organizational resilience.
-- [Supply Chain Risk Management](https://www.disasteraware.com/our-solutions/solutions-supply-chain-management): Anticipate supply chain disruptions from natural disasters, severe weather, strikes, and protests by monitoring risks to suppliers, facilities, and transportation routes.
-- [Insurance Catastrophe Intelligence](https://www.disasteraware.com/our-solutions/insurance): Assess portfolio risk exposure, validate claims and parametric triggers, enhance catastrophe modeling, and improve underwriting with real-time and historical hazard data.
+**Enterprise Solutions**
 
-## Hazard Monitoring Capabilities
+- [Disaster Intelligence for Insurance & Reinsurance](https://www.disasteraware.com/solutions/insurance-reinsurance): Power insurance platforms with global disaster APIs, historical catastrophe data, observed hazard footprints, and AI-ready intelligence for underwriting, claims, and risk analytics.
+- [Global Disaster & Security Risk Intelligence APIs](https://www.disasteraware.com/solutions/risk-intelligence-security): Power security platforms and GSOCs with global disaster intelligence, severe weather warnings across 130+ countries, human-induced threats, and AI-ready APIs.
+- [Supply Chain Disruption & Disaster Intelligence APIs](https://www.disasteraware.com/solutions/supply-chain-logistics): Power supply chain platforms with global disaster intelligence, severe weather warnings, infrastructure disruption data, geospatial insights, and AI-ready APIs.
+- [Business Continuity & Resilience Intelligence APIs](https://www.disasteraware.com/solutions/business-continuity-resilience): Power business continuity platforms with global disaster intelligence, severe weather warnings, hazard exposure data, and AI-ready APIs for operational resilience.
+- [Government & Humanitarian Disaster Intelligence APIs](https://www.disasteraware.com/solutions/government-humanitarian): Power government, defense, and humanitarian technology with global disaster intelligence, geospatial exposure, historical catastrophe data, and AI-ready APIs.
+- [Disaster & Weather Data Partnerships and APIs](https://www.disasteraware.com/solutions/technology-data-partners): Embed global disaster, severe weather, historical catastrophe, and geospatial intelligence into your products with DisasterAWARE APIs, data feeds, and MCP servers.
 
-- [Tropical Storms & Hurricanes](https://www.disasteraware.com/monitoring-monitor-tropical-storms-with-disasteraware): Track hurricane and typhoon paths across all ocean basins, monitor estimated wind impact and storm surges, and assess exposure to assets and populations.
-- [Earthquakes](https://www.disasteraware.com/monitoring-earthquakes-with-disasteraware-enterprise): Real-time earthquake alerts with shaking intensity, Peak Ground Acceleration (PGA), PAGER data, and automated exposure and damage reports.
-- [Floods](https://www.disasteraware.com/monitoring-floods-with-disasteraware): Track global flood events with real-time and early warning alerts, flood risk layers, and automated exposure reporting.
-- [Wildfires](https://www.disasteraware.com/monitoring-wildfires-with-disasteraware): Monitor active wildfires worldwide with satellite-based detection, real-time alerts, and exposure reports.
-- [Tornadoes](https://www.disasteraware.com/monitor-tornadoes-with-disasteraware): Severe weather alerts with tornado lifecycle tracking including warnings, touchdown, paths, and damage assessment.
-- [Tsunamis](https://www.disasteraware.com/monitoring-tsunamis-with-disasteraware): Real-time tsunami warnings from official sources with coastal risk data, travel time estimates, and automated asset alerts.
-- [Volcanoes](https://www.disasteraware.com/monitor-volcanoes-with-disasteraware): Eruption alerts, ashfall forecasts, and volcanic risk intelligence from global observatory networks.
+**Individuals & Families**
 
-## Hazard Intelligence Landing Pages
+- [Home & Location Disaster Monitoring Alerts](https://www.disasteraware.com/solutions/protect-my-home): Monitor your home and other important places for severe weather and natural disasters. Get email warnings, observed hazard updates, severity, and reported impacts.
+- [Family Disaster Monitoring & Severe Weather Alerts](https://www.disasteraware.com/solutions/monitor-my-family): Monitor natural disasters and severe weather near loved ones. Get personalized email warnings, observed hazard updates, severity, and reported impacts.
+- [Property Disaster Monitoring & Weather Alerts](https://www.disasteraware.com/solutions/monitor-my-properties): Monitor Airbnb rentals, vacation homes, boats, and multiple properties for disasters and severe weather. Get email warnings, observed hazards, and impact updates.
+- [Understand Local Natural Disaster Risk](https://www.disasteraware.com/solutions/understand-local-disaster-risk): Explore natural disaster risks by location. Understand wildfire, flood, earthquake, hurricane, and tornado hazards, historical events, and local risk information.
 
-In-depth landing pages on the explore sub-site that combine an interactive live hazard map with hazard-specific context (detection methodology, cascade effects, asset-protection use cases).
+## Data & Coverage
 
-- [Tornado Intelligence](https://explore.disasteraware.com/tornado-intelligence): Verified tornado touchdown, path tracking, and damage assessment.
-- [Wildfire Intelligence](https://explore.disasteraware.com/wildfire-intelligence): Live wildfire perimeters, PSPS monitoring, and smoke/cascade impacts.
-- [Flood Intelligence](https://explore.disasteraware.com/flood-intelligence): AI-enhanced flood detection from news and satellite data, with global coverage.
-- [Strike & Protest Intelligence](https://explore.disasteraware.com/strike-protest-intelligence): Civil-unrest monitoring with interactive map and impact analysis.
-- [Historical Event Intelligence](https://explore.disasteraware.com/historical-event-intelligence): Access 342,000+ historical event records via the DisasterAWARE API for risk modeling and long-term analytics.
+**Hazard Intelligence**
 
-## Explore Sub-Site
+- [Global Disaster & Hazard Intelligence](https://www.disasteraware.com/data-coverage/all-hazard-types): Explore DisasterAWARE's global intelligence covering 30+ hazard types, including severe weather, wildfires, floods, hurricanes, earthquakes, and operational threats.
+- [Global Severe Weather Data & Warning Intelligence](https://www.disasteraware.com/data-coverage/severe-weather): Access global severe weather warnings, forecasts, radar observations, winter storm intelligence, extreme temperatures, and geographic weather risk data.
+- [Global Wildfire Data, Detection & Intelligence](https://www.disasteraware.com/data-coverage/wildfires): Access global wildfire intelligence with NASA satellite detections, NIFC, CWFIS, EFFIS, Australian incident feeds, fire perimeters, smoke, and exposure data.
+- [Global Flood Data, Inundation & Intelligence](https://www.disasteraware.com/data-coverage/floods): Access flood warnings, early-warning intelligence, river gauge observations, inundation footprints, flood depths, historical flood data, and exposure intelligence.
+- [Hail, Wind & Tornado Data | Severe Storm Intelligence](https://www.disasteraware.com/data-coverage/severe-convective-storms): Access hail swaths, estimated hail sizes, damaging wind footprints, tornado tracks, near-real-time severe storm APIs, and historical catastrophe intelligence.
+- [Global Hurricane & Tropical Cyclone Data](https://www.disasteraware.com/data-coverage/hurricanes-tropical-cyclones): Access global hurricane and tropical cyclone tracks, forecasts, wind radii, intensity, historical IBTrACS records, geographic footprints, and exposure intelligence.
+- [Global Earthquake & Tsunami Data, PGA & Shaking](https://www.disasteraware.com/data-coverage/earthquakes-tsunamis): Access global earthquake data, magnitude, depth, PGA shaking footprints, tsunami warnings, wave arrival estimates, historical seismic events, and exposure intelligence.
+- [Man-Made Threat & OSINT Risk Intelligence API](https://www.disasteraware.com/data-coverage/man-made-operational-threats): Access OSINT intelligence on protests, labor strikes, civil unrest, security incidents, transportation disruptions, and geographic operational threats.
 
-- [Explore Live Hazards](https://explore.disasteraware.com): Interactive global map of all currently active hazards, plus risk profiles for 100 cities (50 US + 50 international) and all 50 US states based on FEMA National Risk Index and ThinkHazard data.
-- [explore.disasteraware.com/llms.txt](https://explore.disasteraware.com/llms.txt): LLM-friendly index of the explore sub-site's 1,762 city, state, and hazard-risk pages.
+**Data Capabilities**
+
+- [Global Warnings & Predictive Hazard Intelligence](https://www.disasteraware.com/data-coverage/warnings-predictive-intelligence): Access global CAP warnings, proprietary flood and landslide early warnings, predictive GIS intelligence, and planned disruption monitoring through DisasterAWARE.
+- [Observed Hazard Data & Disaster Intelligence](https://www.disasteraware.com/data-coverage/observed-hazard-intelligence): Access near-real-time observed hazard intelligence, including hail swaths, tornado tracks, wildfire perimeters, flood extents, hurricane winds, and earthquake shaking.
+- [Disaster Exposure & Impact Intelligence](https://www.disasteraware.com/data-coverage/exposure-impact-intelligence): Connect observed disaster footprints with exposed assets, populations, infrastructure, reported impacts, and historical catastrophe intelligence.
+- [Historical Disaster Database & Catastrophe Data](https://www.disasteraware.com/data-coverage/historical-disaster-database): Access approximately 680,000 historical disaster events with enriched hazard footprints, severity, cyclone tracks, hail swaths, earthquake shaking, and associated impacts.
+- [Global Disaster Data Coverage & Sources](https://www.disasteraware.com/data-coverage/global-coverage-sources): Explore DisasterAWARE's global disaster data sources, meteorological warning integrations, satellite observations, historical catastrophe records, and country-by-country CAP coverage.
+- [300+ Geospatial Data Layers for Hazards & Risk](https://www.disasteraware.com/data-coverage/geospatial-data-layers): Explore 300+ geospatial intelligence layers covering natural hazards, weather, forecasts, vulnerability, population exposure, infrastructure, and country risk.
+
+## Developers
+
+- [Disaster Intelligence MCP Servers & AI Integration](https://www.disasteraware.com/developers/mcp-servers-ai-integration): Connect AI applications to historical catastrophe data, live disaster intelligence, geographic hazards, and impacts using DisasterAWARE MCP servers.
+- [Getting Started with DisasterAWARE APIs & Data](https://www.disasteraware.com/developers/getting-started): Start integrating DisasterAWARE disaster intelligence through REST APIs, webhooks, historical catastrophe datasets, MCP servers, and geospatial services.
+- [Disaster API Responses & Data Structure](https://www.disasteraware.com/developers/api-responses-data-structure): Explore DisasterAWARE's enriched disaster API data, including hazard attributes, geographic footprints, exposure assessments, and impact intelligence.
+- [Disaster & Catastrophe Data Samples](https://www.disasteraware.com/developers/data-samples): Explore DisasterAWARE historical catastrophe data, severe weather footprints, earthquake and hurricane datasets, and 300+ geospatial intelligence layers.
+- [Disaster Intelligence API Pricing & Licensing](https://www.disasteraware.com/developers/pricing-licensing): Explore DisasterAWARE's flexible API pricing. Unlimited API usage, no per-call fees, annual subscriptions, customizable hazard coverage, and revenue-sharing partnerships.
+- [Request DisasterAWARE API & Data Access](https://www.disasteraware.com/developers/request-api-access): Request access to DisasterAWARE's disaster and severe weather APIs, historical catastrophe datasets, geospatial intelligence, and MCP integrations.
+
+## Pacific Disaster Center Partnership
+
+- [Pacific Disaster Center Partnership](https://www.disasteraware.com/pdc-partnership): Discover how DisasterAWARE Enterprise partners with Pacific Disaster Center to bring trusted disaster science, threat and impact intelligence to commercial applications and AI.
+
+## Live Hazards and Local Risk (explore.disasteraware.com)
+
+- [Explore Live Hazards](https://explore.disasteraware.com/): Interactive global map of currently active hazards, current-hazard pages by type, and risk profiles for cities and US states.
+- [explore.disasteraware.com/llms.txt](https://explore.disasteraware.com/llms.txt): Index of the explore sub-site's city, state, hazard-risk and current-hazard pages.
 
 ## Company
 
-- [About DisasterAWARE](https://www.disasteraware.com/about): Built on decades of Pacific Disaster Center expertise, DisasterAWARE helps organizations monitor and assess risks from natural disasters and catastrophes worldwide.
-- [Customer Stories](https://www.disasteraware.com/customer-stories): Case studies showing how organizations use DisasterAWARE for insurance catastrophe risk, crisis management, and supply chain resilience.
-- [News & Events](https://www.disasteraware.com/news-events): Latest news, product announcements, thought leadership, and event coverage.
+- [About DisasterAWARE](https://www.disasteraware.com/about): Company background and the Pacific Disaster Center heritage.
+- [Customer Stories](https://www.disasteraware.com/customer-stories): Case studies on insurance catastrophe risk, crisis management and supply chain resilience.
+- [News & Events](https://www.disasteraware.com/news-events): Product announcements, hazard rankings and analysis articles, and hazard intelligence briefs.
+- [Contact Us](https://www.disasteraware.com/contact-us): Request a demo, ask about enterprise solutions or partnerships, or reach support.
 
 ## Recent Weekly Intelligence Briefs
 
 Editorial briefs synthesizing the prior week's confirmed hazard events from the DisasterAWARE operational data feed. Each brief includes an embedded live hazard map and full source attribution (USGS NEIC, PTWC, NASA FIRMS, etc.).
 
-- [Mindanao M7.8 + Cuba M6.1: Two Hemispheres Shake in 19 Hours — June 8, 2026](https://www.disasteraware.com/news-event/mindanao-m78-cuba-m61-pacific-tsunami-protocols-june-2026)
-- [The Heat Behind the Fire — May 27, 2026](https://www.disasteraware.com/news-event/heat-behind-the-fire-250m-under-warning-may-2026)
-- [The Global Fire Belt Widens — May 20, 2026](https://www.disasteraware.com/news-event/global-fire-belt-widens-820-wildfire-events-may-2026)
-- [Northern Hemisphere Fire Season — May 7, 2026](https://www.disasteraware.com/news-event/northern-hemisphere-fire-season-1352-perimeters-may-2026)
-
-## Machine-Readable Structure
-
-Every page on `www.disasteraware.com` carries the following structured data:
-
-- **Organization** JSON-LD (footer) — `@type: Organization`, name, logo, social `sameAs` links.
-- **NewsArticle** JSON-LD on every weekly brief and content article — `@type: NewsArticle`, ISO 8601 `datePublished`, `image` (the article banner), `publisher` (DisasterAWARE), `mainEntityOfPage`.
-- **Canonical** `<link rel="canonical">` on every page (UTM-stripped).
-
-The `explore.disasteraware.com` sub-site adds **BreadcrumbList** JSON-LD on city, hazard-risk, and current-hazard pages, and per-page Open Graph images at `{page}/opengraph-image`.
-- [Contact Us](https://www.disasteraware.com/contact-us): Request a demo, ask about enterprise solutions, explore partnerships, or reach the support team.
+- [A 1,000-Year Flood on a River That Had Passed 10 Feet Only Once: the Toccoa and Ocoee Record of November 5, 2026](https://www.disasteraware.com/news-event/toccoa-ocoee-river-record-flood-november-2026-georgia-tennessee) (2026-11-09)
+- [The Southwest's October Flood: Three Deaths in New Mexico, a Santa Fe Tornado and 416 US Flash Flood Warnings in One Month](https://www.disasteraware.com/news-event/southwest-october-2026-floods-tornadoes-new-mexico-arizona) (2026-11-03)
+- [The September 2026 Nor'easter, Warned vs. Measured: Highest Water Since Sandy at Kiptopeke and Ocean City Inlet](https://www.disasteraware.com/news-event/september-2026-noreaster-highest-water-since-sandy) (2026-09-30)
+- [Eleven Days Under the Anvil: Brazil's Alert Siege Put Up to 124 Million People a Day Inside Severe-Weather Footprints](https://www.disasteraware.com/news-event/brazil-severe-weather-siege-september-2026) (2026-09-15)
+- [The Fire Belt Nobody Watches: 1,168 Wildfire Detections Across Southern Africa in Ten Days](https://www.disasteraware.com/news-event/southern-africa-fire-belt-september-2026) (2026-09-10)
+- [Hawk Fire 2026: Evacuations on Reno's Doorstep in a Week When Wildfire Was 80% of Everything](https://www.disasteraware.com/news-event/hawk-fire-2026-reno-evacuations) (2026-08-26)
+- [All news, analysis and briefs](https://www.disasteraware.com/news-events)
 
 ## Getting Started
 
-- [Sign Up for Free Trial](https://www.disasteraware.com/sign-up): Start a free platform and API trial with access to real-time, early warning, and historical natural disaster and threat data.
-- [Product Guides](https://www.disasteraware.com/product-guides): Step-by-step guides to set up alerts, manage assets, use data layers, and integrate hazard data into workflows.
-- [FAQ](https://www.disasteraware.com/faq): Common questions about DisasterAWARE including licensing, API and data integration, and support services.
-- [Help & Support](https://www.disasteraware.com/help-support): Technical support resources and documentation.
+- [Sign Up for a Free Trial](https://www.disasteraware.com/sign-up): Free 14-day platform trial (API access where applicable).
+- [Product Guides](https://www.disasteraware.com/product-guides): Downloadable PDF guides by hazard: biomedical, earthquakes, floods, landslides, tropical cyclones, tsunami, volcanoes and wildfires.
+- [FAQ](https://www.disasteraware.com/faq): Common questions on licensing, API and data integration, and support.
 
 ## Optional
 
-- [Terms & Conditions](https://www.disasteraware.com/terms-conditions): Terms governing use of the platform, mobile app, and API/data services.
-- [Platform Updates](https://www.disasteraware.com/updates): Latest platform updates, data enhancements, new API features, and improvements.
+- [Full text of News & Events articles](https://www.disasteraware.com/llms-full.txt): News & Events articles as one text file.
+- [Platform Updates](https://www.disasteraware.com/updates): Platform updates, data enhancements and new API features.
+- [Terms & Conditions](https://www.disasteraware.com/terms-conditions): Terms governing the websites, the DisasterAWARE Enterprise platform, and API and data services.
+- [Privacy Policy](https://www.disasteraware.com/privacy-policy)
